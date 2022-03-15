@@ -1,4 +1,4 @@
-# ClumziBobi-DiscordBot-
+# ClumziBobi-DiscordBot-(discontinued)
 A discord bot written in JS for a Minecraft Server.(MINI_PROJECT)
 
 # HOW TO RUN THE PROJECT
@@ -14,3 +14,4 @@ Select "New Project" on glitch,and then click "Import from GitHub".Paste the lin
 
 
 # Don't forget to star the project and give credits ;)
+## I don't give anymore support for this,so please don't ask me for support on this project.
